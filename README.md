@@ -48,6 +48,8 @@ MoodTrackerApp/
 │ └── ChartView.java # Mood trend chart visualization window
 
 ├── resources/
+
 │ └── quotes.txt # Motivational quotes (one per line)
+
 └── mood_tracker.db # Auto-created SQLite database file
 
