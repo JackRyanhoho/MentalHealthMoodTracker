@@ -53,3 +53,6 @@ MoodTrackerApp/
 
 └── mood_tracker.db # Auto-created SQLite database file
 
+AUTHOR
+Lakshya Koli  
+
