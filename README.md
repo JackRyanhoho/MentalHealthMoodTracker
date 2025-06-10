@@ -24,19 +24,27 @@ A simple JavaFX desktop application for promoting **mental wellness** through da
 ## 🛠️ Project Structure
 
 MoodTrackerApp/
+
 ├── main/
+
 │ └── Main.java # Entry point of the application
 
 ├── controller/
+
 │ └── MoodController.java # Handles database operations and mood logic
 
 ├── model/
+
 │ ├── DBHelper.java # Connects to SQLite and initializes DB
+
 │ ├── MoodEntry.java # Represents a mood log entry (date, mood, notes)
+
 │ └── QuoteHelper.java # Loads random quotes from a text file
 
 ├── view/
+
 │ ├── MoodTrackerUI.java # Main UI window with form and list
+
 │ └── ChartView.java # Mood trend chart visualization window
 
 ├── resources/
